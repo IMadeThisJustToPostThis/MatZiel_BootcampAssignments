@@ -70,18 +70,6 @@ p {
     margin-right: auto;
 }
 
-.display-inline {
-    display: inline;
-}
-
-.header-list {
-    max-width: 100%;
-    max-height: 100%;
-    height: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
 /* new classes */
 
 .float-left {
